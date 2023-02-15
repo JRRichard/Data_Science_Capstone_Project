@@ -1,4 +1,4 @@
-# Data_Science_Capstone_Project
+# Data_Science_Capstone_Project_JR Richard
 Web scraping, REST APIs, Exploratory Data Analysis, Plotly Dash dashboard and Machine Learning using classification algorithms.
 
 Folium map file will need to be trusted to be able to see rendered map.
