@@ -1,5 +1,5 @@
 # Data_Science_Capstone_Project
-Data Wrangling, Analysis, ML and showing on dashboard
+Web scraping, REST APIs, Exploratory Data Analysis, Plotly Dash dashboard and Machine Learning using classification algorithms.
 
 Folium map file will need to be trusted to be able to see rendered map.
 Folium Mouse Pointer not functional in Anaconda
